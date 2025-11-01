@@ -24,4 +24,5 @@ Embora o classificador apresente boa precisão, ainda há espaço para aprimoram
 
 Essas melhorias ajudam a reduzir confusões entre planetas visualmente semelhantes (como Júpiter e Marte) e aumentam a capacidade de generalização do modelo em cenários reais.
 
-
+## Atenção
+Esse modelo precisa de imagens de em dataset/test para ser devidamente validado
